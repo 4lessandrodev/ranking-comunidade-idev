@@ -176,6 +176,17 @@ tr:hover{
     width: 100%;
 }
 
+.fas:before {
+    background-color: rgb(255, 255, 255);
+    border-radius: 7px;
+    padding: 3px 7px;
+}
+
+.fa-award:before {
+    background-color: rgb(255, 255, 255);
+    border-radius: 7px;
+    padding: 3px 14px;
+}
 
 
 
@@ -183,9 +194,9 @@ tr:hover{
 
 @media (max-width: 700px) { 
     .main__section__ranking__member__avatar img{
-        width: 70px;
-        max-width: 70px;
-        min-width: 70px;
+        width: 140px;
+        max-width: 140px;
+        min-width: 140px;
         border-radius: 50%;
         border: 3px rgb(147, 233, 255) solid;
         -webkit-box-shadow: -4px 3px 27px -7px rgba(0,0,0,0.5);
@@ -193,9 +204,9 @@ tr:hover{
     }
     
     .main__section__ranking__member__avatar .img__first_place{
-        width: 90px;
-        max-width:90px;
-        min-width: 90px;
+        width: 160px;
+        max-width:160px;
+        min-width: 160px;
         border-radius: 50%;
         border: 7px rgba(241, 245, 6, 0.795) double;
         -webkit-box-shadow: -4px 3px 27px -7px rgba(0,0,0,0.5);
@@ -221,5 +232,6 @@ tr:hover{
     }
     .first__place{
         bottom: 0px;
+        order: -1;
     }
  }
