@@ -1,0 +1,218 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
+
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+.body__header{
+    min-width: 100%;
+    min-height: 30vh;
+    background: rgb(2,0,36);
+    background: -webkit-gradient(linear, left top, right top, from(rgba(2,0,36,1)), color-stop(35%, rgba(9,9,121,1)), to(rgba(0,212,255,1)));
+    background: -o-linear-gradient(left, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    margin: 0;
+    padding: 0;
+}
+
+.body__header__title{
+text-align: center;
+padding-top: 2%;
+}
+
+.body__header h1, .body__header h2{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+h1{
+    font-size: 2rem;
+}
+h2{
+    font-size: 1.4rem;
+}
+
+.main__section__ranking__member{
+    text-align: center;
+}
+
+.main__section__ranking__member__avatar img{
+    width: 170px;
+    max-width: 170px;
+    min-width: 170px;
+    border-radius: 50%;
+    border: 3px rgb(147, 233, 255) solid;
+    -webkit-box-shadow: -4px 3px 27px -7px rgba(0,0,0,0.5);
+            box-shadow: -4px 3px 27px -7px rgba(0,0,0,0.5);
+}
+
+.main__section__ranking__member__avatar .img__first_place{
+    width: 210px;
+    max-width:210px;
+    min-width: 210px;
+    border-radius: 50%;
+    border: 7px rgba(241, 245, 6, 0.795) double;
+    -webkit-box-shadow: -4px 3px 27px -7px rgba(0,0,0,0.5);
+            box-shadow: -4px 3px 27px -7px rgba(0,0,0,0.5);
+}
+
+.main__section__ranking__member__avatar img:hover{
+    border: 3px white solid;
+    -webkit-box-shadow: -4px 3px 65px -1px rgba(0,0,0,0.63);
+            box-shadow: -4px 3px 65px -1px rgba(0,0,0,0.63);
+    cursor: pointer;
+}
+
+.main__section__ranking__member__avatar .img__first_place:hover{
+    width: 50%;
+    max-width: 50%;
+    border-radius: 50%;
+    border: 7px rgb(255, 255, 255) double;
+    -webkit-box-shadow: -4px 3px 27px -7px rgba(0,0,0,0.5);
+            box-shadow: -4px 3px 27px -7px rgba(0,0,0,0.5);
+}
+
+.main__section__ranking__member__info{
+    text-align: center;
+    max-width: 100%;
+    color: rgb(8, 8, 128);
+    position: relative;
+    bottom: 42px;
+}
+
+.main__section__ranking__member__info h2{
+    margin: 7px 0 0 0;
+    padding: 0; 
+}
+
+.main__section__ranking__member__info h3{
+    margin: 0;
+    padding: 0;
+}
+
+.avatar{
+    max-width: 70px;
+    width: 70px;
+    min-width: 70px;
+    border-radius: 50%;
+}
+
+.main__section__ranking__member__info__icon{
+    color: rgb(201, 157, 37);
+    font-size: 3rem;
+}
+
+.main__section__ranking{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    max-width: 80%;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: space-evenly;
+        -ms-flex-pack: space-evenly;
+            justify-content: space-evenly;
+    width: 80%;
+    min-width: 80%;
+    position: relative;
+    bottom: 10vh;
+}
+
+.first__place{
+    position: relative;
+    bottom: 28px;
+}
+
+.main__section{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -ms-flex-pack: distribute;
+        justify-content: space-around;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    width: 100%;
+}
+
+main{
+margin-bottom: 9vh;    
+}
+
+
+tr:hover{
+    background-color: rgb(223, 223, 255);
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.body__footer{
+    margin-top: 3vh;
+    padding-top: 0.5%;
+    text-align: center;
+    background-color: rgb(3, 3, 87);
+    color: white;
+    position: fixed;
+    bottom: 0px;
+    min-width: 100%;
+    width: 100%;
+}
+
+
+
+
+
+@media (max-width: 700px) { 
+    .main__section__ranking__member__avatar img{
+        width: 70px;
+        max-width: 70px;
+        min-width: 70px;
+        border-radius: 50%;
+        border: 3px rgb(147, 233, 255) solid;
+        -webkit-box-shadow: -4px 3px 27px -7px rgba(0,0,0,0.5);
+                box-shadow: -4px 3px 27px -7px rgba(0,0,0,0.5);
+    }
+    
+    .main__section__ranking__member__avatar .img__first_place{
+        width: 90px;
+        max-width:90px;
+        min-width: 90px;
+        border-radius: 50%;
+        border: 7px rgba(241, 245, 6, 0.795) double;
+        -webkit-box-shadow: -4px 3px 27px -7px rgba(0,0,0,0.5);
+                box-shadow: -4px 3px 27px -7px rgba(0,0,0,0.5);
+    }
+    .main__section__ranking__member{
+        width: 100%;
+    }
+    .main__section__ranking{
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+    .main__section__ranking__member__info__icon{
+        font-size: 2rem;
+        position: relative;
+        top: 14px;
+    }
+    .avatar{
+        max-width: 40px;
+        width: 40px;
+        min-width: 40px;
+        border-radius: 50%;  
+    }
+    .first__place{
+        bottom: 0px;
+    }
+ }
