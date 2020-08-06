@@ -21,10 +21,10 @@ THIRD_PLACE.getElementsByTagName("p")[0].textContent = ordernedList[2].points;
 let trs = ``;
 for (let index = 3; index < ordernedList.length; index++) {
     trs +=`<tr>
-    <th scope="row">${index + 1}</th>
+    <th scope="row">#${index + 1}</th>
     <td><img class="avatar" src="${ordernedList[index].avatar}" alt="avatar"></td>
-    <td>${ordernedList[index].name}</td>
-    <td>${ordernedList[index].points}</td>
+    <td><strong>${ordernedList[index].name}</strong></td>
+    <td><strong>${ordernedList[index].points}</strong></td>
   </tr>`;
 }
 
