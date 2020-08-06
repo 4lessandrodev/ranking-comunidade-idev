@@ -8,11 +8,12 @@
 
 body{
     font-family: 'Raleway', sans-serif;
+    letter-spacing: 2px;
 }
 
 .body__header{
     min-width: 100%;
-    min-height: 30vh;
+    min-height: 35vh;
     background: rgb(2,0,36);
     background: -webkit-gradient(linear, left top, right top, from(rgba(2,0,36,1)), color-stop(35%, rgba(9,9,121,1)), to(rgba(0,212,255,1)));
     background: -o-linear-gradient(left, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
@@ -24,6 +25,11 @@ body{
 .body__header__title{
 text-align: center;
 padding-top: 2%;
+letter-spacing: 14px;
+}
+
+.body__header__title img{
+    max-width: 110px;
 }
 
 .body__header h1, .body__header h2{
@@ -36,7 +42,7 @@ h1{
     font-size: 2rem;
 }
 h2{
-    font-size: 1.4rem;
+    font-size: 1.2rem;
 }
 
 .main__section__ranking__member{
@@ -169,6 +175,7 @@ tr:hover{
     min-width: 100%;
     width: 100%;
 }
+
 
 
 
