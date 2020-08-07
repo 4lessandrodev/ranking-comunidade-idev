@@ -10,13 +10,13 @@ const MEMBERS = [
         id:2,
         name: 'Vinícius emidio',
         avatar: 'https://filtrosevelas.com.br/img/default-user.png',
-        points: 250,
+        points: 300,
     },
     {
         id:3,
         name: 'Airtow',
         avatar: 'https://avatars3.githubusercontent.com/u/67306463?s=460&u=a05a872e2bfe8bd2337a483911768b5ea1ba1194&v=4',
-        points: 240,
+        points: 290,
 
     },
     {
@@ -98,7 +98,7 @@ const MEMBERS = [
     },
     {
         id:15,
-        name: 'ronielpontes',
+        name: 'Kinha',
         avatar: 'https://avatars2.githubusercontent.com/u/8785783?s=460&v=4',
         points: 0,
 
