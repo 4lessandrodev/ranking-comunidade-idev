@@ -9,7 +9,7 @@ const MEMBERS = [
     {
         id:2,
         name: 'Vinícius emidio',
-        avatar: 'https://filtrosevelas.com.br/img/default-user.png',
+        avatar: 'https://avatars0.githubusercontent.com/u/42459603?s=460&u=314f993208f6634cda425ae23f1c161fe73fda9f&v=4',
         points: 310,
     },
     {
