@@ -98,7 +98,8 @@ const MEMBERS = [
     {
         id:15,
         name: 'Kinha',
-        avatar:'https://avatars0.githubusercontent.com/u/56558061?s=460&u=a3f1ace0a0eef8b5f89a208a1083a2ced7938136&v=4'
+        avatar: 'https://avatars0.githubusercontent.com/u/56558061?s=460&u=a3f1ace0a0eef8b5f89a208a1083a2ced7938136&v=4',
+        points: 0,
     },
     {
         id:16,
@@ -131,6 +132,7 @@ const MEMBERS = [
     {
         id:19,
         name: 'acarolinapassos',
-        avatar:'https://avatars1.githubusercontent.com/u/60620882?s=460&v=4'
+        avatar: 'https://avatars1.githubusercontent.com/u/60620882?s=460&v=4',
+        points: 10,
     },
 ];
