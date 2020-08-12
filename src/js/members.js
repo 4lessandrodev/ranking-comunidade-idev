@@ -31,7 +31,6 @@ const MEMBERS = [
         name: 'Andre Vieira',
         avatar: 'https://avatars1.githubusercontent.com/u/56928555?s=460&u=b3796a627072a5edfc931b153db555f752491372&v=4',
         points: 240,
-
     },
     {
         id:5,
@@ -99,9 +98,7 @@ const MEMBERS = [
     {
         id:15,
         name: 'Kinha',
-        avatar: 'https://avatars2.githubusercontent.com/u/8785783?s=460&v=4',
-        points: 0,
-
+        avatar:'https://avatars0.githubusercontent.com/u/56558061?s=460&u=a3f1ace0a0eef8b5f89a208a1083a2ced7938136&v=4'
     },
     {
         id:16,
@@ -123,5 +120,17 @@ const MEMBERS = [
         avatar: 'https://avatars3.githubusercontent.com/u/43867047?s=460&u=fe07fbcd20ee505c73edfab1ff4a055a32e8aa24&v=4',
         points: 240,
 
+    },
+    {
+        id:18,
+        name: 'JamesG',
+        avatar: 'https://avatars3.githubusercontent.com/u/43867047?s=460&u=fe07fbcd20ee505c73edfab1ff4a055a32e8aa24&v=4',
+        points: 240,
+
+    },
+    {
+        id:19,
+        name: 'acarolinapassos',
+        avatar:'https://avatars1.githubusercontent.com/u/60620882?s=460&v=4'
     },
 ];
