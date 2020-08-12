@@ -123,13 +123,6 @@ const MEMBERS = [
 
     },
     {
-        id:18,
-        name: 'JamesG',
-        avatar: 'https://avatars3.githubusercontent.com/u/43867047?s=460&u=fe07fbcd20ee505c73edfab1ff4a055a32e8aa24&v=4',
-        points: 240,
-
-    },
-    {
         id:19,
         name: 'acarolinapassos',
         avatar: 'https://avatars1.githubusercontent.com/u/60620882?s=460&v=4',
