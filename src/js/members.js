@@ -120,7 +120,6 @@ const MEMBERS = [
         name: 'JamesG',
         avatar: 'https://avatars3.githubusercontent.com/u/43867047?s=460&u=fe07fbcd20ee505c73edfab1ff4a055a32e8aa24&v=4',
         points: 540,
-
     },
     {
         id:19,
