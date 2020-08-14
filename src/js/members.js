@@ -16,7 +16,7 @@ const MEMBERS = [
         id:3,
         name: 'Airtow',
         avatar: 'https://avatars3.githubusercontent.com/u/67306463?s=460&u=a05a872e2bfe8bd2337a483911768b5ea1ba1194&v=4',
-        points: 600,
+        points: 650,
 
     },
     {
@@ -30,13 +30,13 @@ const MEMBERS = [
         id:4,
         name: 'Andre Vieira',
         avatar: 'https://avatars1.githubusercontent.com/u/56928555?s=460&u=b3796a627072a5edfc931b153db555f752491372&v=4',
-        points: 540,
+        points: 580,
     },
     {
         id:5,
         name: 'CandyDaniele',
         avatar: 'https://avatars3.githubusercontent.com/u/60582129?s=100&v=4',
-        points: 670,
+        points: 720,
 
     },
     {
