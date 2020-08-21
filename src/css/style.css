@@ -77,9 +77,6 @@ h2{
 }
 
 .main__section__ranking__member__avatar .img__first_place:hover{
-    width: 50%;
-    max-width: 50%;
-    border-radius: 50%;
     border: 7px rgb(255, 255, 255) double;
     -webkit-box-shadow: -4px 3px 65px -1px rgba(0,0,0,0.63);
             box-shadow: -4px 3px 65px -1px rgba(0,0,0,0.63);
