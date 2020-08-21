@@ -10,13 +10,13 @@ const MEMBERS = [
         id:2,
         name: 'Vinícius emidio',
         avatar: 'https://avatars0.githubusercontent.com/u/42459603?s=460&u=314f993208f6634cda425ae23f1c161fe73fda9f&v=4',
-        points: 610,
+        points: 1110,
     },
     {
         id:3,
         name: 'Airtow',
         avatar: 'https://avatars3.githubusercontent.com/u/67306463?s=460&u=a05a872e2bfe8bd2337a483911768b5ea1ba1194&v=4',
-        points: 650,
+        points: 1150,
 
     },
     {
@@ -30,13 +30,13 @@ const MEMBERS = [
         id:4,
         name: 'Andre Vieira',
         avatar: 'https://avatars1.githubusercontent.com/u/56928555?s=460&u=b3796a627072a5edfc931b153db555f752491372&v=4',
-        points: 580,
+        points: 980,
     },
     {
         id:5,
         name: 'CandyDaniele',
         avatar: 'https://avatars3.githubusercontent.com/u/60582129?s=100&v=4',
-        points: 720,
+        points: 1120,
 
     },
     {
@@ -50,7 +50,7 @@ const MEMBERS = [
         id:8,
         name: 'diogo_costa',
         avatar: 'https://avatars0.githubusercontent.com/u/62573994?s=460&u=876fa58f6a433c6a3caf2fc253b88b71c2800590&v=4',
-        points: 550,
+        points: 950,
 
     },
     {
@@ -62,69 +62,55 @@ const MEMBERS = [
     },
     {
         id:10,
-        name: 'Gabriel',
-        avatar: 'https://avatars0.githubusercontent.com/u/31799208?s=100&v=4',
-        points: 240,
-
-    },
-    {
-        id:11,
         name: 'Lettie',
         avatar: 'https://avatars2.githubusercontent.com/u/54192824?s=460&u=1acbae58170ff0c5e932030b0a1bf51613ac029d&v=4',
         points: 540,
 
     },
     {
-        id:12,
+        id:11,
         name: 'muriloignaccio',
         avatar: 'https://avatars3.githubusercontent.com/u/54823475?s=100&v=4',
-        points: 0,
+        points: 200,
 
     },
     {
-        id:13,
+        id:12,
         name: 'Rafael Sanches',
         avatar: 'https://avatars0.githubusercontent.com/u/40367010?s=460&u=aa720d84c98adb3bb53aa7b4e8de3d35249ac775&v=4',
         points: 550,
 
     },
     {
-        id:14,
+        id:13,
         name: 'Ray_vieira',
         avatar: 'https://avatars3.githubusercontent.com/u/67801932?s=460&u=75843fc2cade9a980be58dd2cf975efbcf12fffb&v=4',
-        points: 550,
+        points: 1050,
 
     },
     {
-        id:15,
+        id:14,
         name: 'Kinha',
         avatar: 'https://avatars0.githubusercontent.com/u/56558061?s=460&u=a3f1ace0a0eef8b5f89a208a1083a2ced7938136&v=4',
-        points: 300,
+        points: 500,
     },
     {
-        id:16,
+        id:15,
         name: 'SrTonn',
         avatar: 'https://filtrosevelas.com.br/img/default-user.png',
         points: 0,
 
     },
     {
-        id:17,
-        name: 'Almir Acacio',
-        avatar: 'https://filtrosevelas.com.br/img/default-user.png',
-        points: 0,
-
-    },
-    {
-        id:18,
+        id:16,
         name: 'JamesG',
         avatar: 'https://avatars3.githubusercontent.com/u/43867047?s=460&u=fe07fbcd20ee505c73edfab1ff4a055a32e8aa24&v=4',
-        points: 540,
+        points: 940,
     },
     {
-        id:19,
+        id:17,
         name: 'acarolinapassos',
         avatar: 'https://avatars1.githubusercontent.com/u/60620882?s=460&v=4',
-        points: 300,
+        points: 800,
     },
 ];
