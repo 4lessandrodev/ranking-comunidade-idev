@@ -55,10 +55,9 @@ const MEMBERS = [
     },
     {
         id:9,
-        name: 'Ediney',
-        avatar: 'https://filtrosevelas.com.br/img/default-user.png',
-        points: 95,
-
+        name: 'acarolinapassos',
+        avatar: 'https://avatars1.githubusercontent.com/u/60620882?s=460&v=4',
+        points: 800,
     },
     {
         id:10,
@@ -106,11 +105,5 @@ const MEMBERS = [
         name: 'JamesG',
         avatar: 'https://avatars3.githubusercontent.com/u/43867047?s=460&u=fe07fbcd20ee505c73edfab1ff4a055a32e8aa24&v=4',
         points: 940,
-    },
-    {
-        id:17,
-        name: 'acarolinapassos',
-        avatar: 'https://avatars1.githubusercontent.com/u/60620882?s=460&v=4',
-        points: 800,
-    },
+    }
 ];
